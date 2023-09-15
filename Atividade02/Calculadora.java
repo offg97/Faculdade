@@ -1,7 +1,5 @@
 package Atividade02;
 
-package Atv02;
-
 // Classe Calculadora
 // Crie uma classe chamada Calculadora.
 // Adicione os seguintes atributos privados:
